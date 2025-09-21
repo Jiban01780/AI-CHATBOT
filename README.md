@@ -12,8 +12,7 @@ A customizable and intelligent AI-powered chatbot built with state-of-the-art na
 - 🧪 Easy-to-run development and testing setup
 
 ## 📸 Demo
-
-https://sgudip07.github.io/AI-CHATBOT/
+https://jiban01780.github.io/AI-CHATBOT/
 
 ## 🛠 Tech Stack
 
